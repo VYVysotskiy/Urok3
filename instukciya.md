@@ -16,5 +16,10 @@
 
 >**git diff** - увидеть разницу между текущим файлом и закоммиченным файлом
 
+![картинка не открылась](https://gas-kvas.com/uploads/posts/2023-02/1675495554_gas-kvas-com-p-luchshie-kartinki-dlya-fonovogo-risunka-ra-4.jpg)
 
+[погода](https://www.gismeteo.ru/weather-zheleznogorsk-5006/month/)
 
+![картинка с компа тоже не открылась](gora-moran.jpg)
+
+>***Век живи, век учись***
